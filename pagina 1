@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Documento sin t&iacute;tulo</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #FF3399;
+}
+#Layer1 {
+	position:absolute;
+	left:402px;
+	top:13px;
+	width:401px;
+	height:88px;
+	z-index:1;
+}
+.Estilo1 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+}
+#Layer2 {
+	position:absolute;
+	left:391px;
+	top:191px;
+	width:418px;
+	height:82px;
+	z-index:2;
+}
+#Layer3 {
+	position:absolute;
+	left:40px;
+	top:20px;
+	width:311px;
+	height:269px;
+	z-index:3;
+}
+#Layer4 {
+	position:absolute;
+	left:918px;
+	top:77px;
+	width:193px;
+	height:141px;
+	z-index:4;
+}
+-->
+</style>
+<script type="text/javascript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+//-->
+</script>
+</head>
+
+<body>
+<div id="Layer1"><span class="Estilo1">Feliz dia del amor y la amistad </span></div>
+<div id="Layer2">
+  <embed src="../VIDEOS/y2mate.com - Alexander Acha  Te amo Official CantoYo Video.mp3" width="419" height="82"></embed>
+</div>
+<div id="Layer3">
+  <embed src="../VIDEOS/imagenes y gif/3.jfif" width="312" height="267"></embed>
+</div>
+<div id="Layer4">
+  <embed src="../VIDEOS/imagenes y gif/14-febrero.jpg" width="194" height="141"></embed>
+</div>
+</body>
+</html>
